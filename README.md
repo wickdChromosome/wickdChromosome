@@ -1,4 +1,4 @@
 ### Hi there 👋
 
-![JP](fastmeme.gif)
+![JP](https://bencekotis.com/fastmeme.gif)
 
