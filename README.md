@@ -1,5 +1,2 @@
-##### Here is a really cool image animation library for creating deepfakes: https://github.com/AliaksandrSiarohin/first-order-model
-<br>
-<p align="center">
-	<img src="https://bencekotis.com/fastmeme.gif">	
-</p>
+
+[![Bence's github stats](https://github-readme-stats.vercel.app/api?username=wickdchromosome)](https://github.com/anuraghazra/github-readme-stats)
